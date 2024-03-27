@@ -4,14 +4,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Orion-zhen&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-**Overview**
+## Overview
 
 - 🤗主要使用：C/C++, Python
 - 😀会说：中文, English
 - 一句话概括：是个大废物呢🥰
 - BTW, I use [arch](https://archlinux.org/) : -)
 
-**Skills**
+## Skills
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C%2B%2B-00add8?style=flat-square&logo=C%2B%2B&logoColor=fff)
