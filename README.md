@@ -19,4 +19,4 @@
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orion-zhen&layout=donut" /> </td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orion-zhen&layout=donut&hide=jupyter%20notebook" /> </td>
