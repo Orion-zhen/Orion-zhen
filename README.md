@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orion-zhen</h1>
-<h3 align="center">A Computer Science student from Xi'an Jiaotong University.</h3>
+<h3 align="center">A student major in computer science from Xi'an Jiaotong University.</h3>
 
 <!-- dynamic typing effect 动态打字效果 -->
 <div align="center">
