@@ -20,6 +20,8 @@
 
 - 💻 I am using: **Arch Linux ;-)**
 
+- 😋 You can find interesting models and datasets on my [hf_website](https://huggingface.co/Orion-zhen)
+
 <p align="center">
 </p>
 
