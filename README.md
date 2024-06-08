@@ -36,4 +36,4 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=orion-zhen&theme=dark" alt="orion-zhen" /></p>
 -->
 
-<p align="left"> You are the <img src="https://profile-counter.glitch.me/Orion-zhen/count.svg" alt="orion-zhen" /> visitor. Thank you! 💖</p>
+<p align="center"> You are the <img src="https://profile-counter.glitch.me/Orion-zhen/count.svg" alt="orion-zhen" /> visitor. Thank you! 💖</p>
